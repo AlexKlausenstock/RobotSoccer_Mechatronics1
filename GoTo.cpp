@@ -32,10 +32,9 @@ return rad;
 
 // go to function
 void GoTo(double destination[3]){
-    const double error = 1; // units? // get this close before return (at destination)
+    //const double error = 1; // units? // get this close before return (at destination)
     // should we even stop fussing as long as we keep calling this
-
-    if(destination[0]-robot[0]+destination[1])
+    
 }
 
 
